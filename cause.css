@@ -141,6 +141,7 @@ h1 {
 img[alt="Teddy Hug"] {
     width: 100%;
     animation: bounce 2s ease-in-out infinite;
+    max-width: 100%;
 }
 
 @keyframes gradientBG {
