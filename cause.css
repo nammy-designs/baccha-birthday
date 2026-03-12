@@ -105,6 +105,7 @@ h1 {
     transition: transform 0.3s;
     font-family: 'Comic Neue', cursive;
     box-shadow: 0 5px 15px rgba(255, 105, 180, 0.3);
+    margin-top: 20px;
 }
 
 .shuffle-button:hover {
