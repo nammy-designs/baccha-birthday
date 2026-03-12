@@ -134,9 +134,13 @@ h1 {
 }
 
 .teddy-hug {
-    width: 200px;
+    width: 700px;
     margin: 0 auto;
-    transform: scale(0);
+}
+
+img[alt="Teddy Hug"] {
+    width: 100%;
+    animation: bounce 2s ease-in-out infinite;
 }
 
 @keyframes gradientBG {
